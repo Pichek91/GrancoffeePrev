@@ -1,0 +1,20 @@
+Estudos Reactive Native
+
+- Sempre quando precisar atualizar a biblioteca do Expo execute o seguite comando no terminal:
+
+	npm install -g expo-cli
+
+- Para Criar sempre um app novo, no terminal execute o seguinte comando:
+
+	npx create-expo-app StickerSmash --template blank
+
+O StickerSmash, é o nome da pasta, então substitua esse nome, pelo nome do seu app, Template blanck, 
+vai criar o app puro.
+
+- Para jogar o app no GitHub execute os passos seguintes:
+
+    Abra um novo repositorio no GitHub
+    No terminal execute os comandos a seguir:
+        git remote add origin https://github.com/Pichek91/GrancoffeePrev.git
+        git branch -M main
+        git push -u origin main 
