@@ -19,3 +19,7 @@ vai criar o app puro.
         git branch -M main
         git push -u origin main 
 
+    Para chamar uma alteração vinda do GitHub usar os comandos:
+
+        git pull
+        
