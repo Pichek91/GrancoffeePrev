@@ -1,5 +1,5 @@
 
-export const Header = () => {
+export const Cabecalho = () => {
 
 
     return (
