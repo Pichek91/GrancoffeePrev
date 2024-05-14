@@ -3,7 +3,7 @@ import { Header } from "../../components/Header/index.tsx";
 
 export default function Home(){
     return (
-      <View style={{ flex:1, paddingVertical:30}}>
+      <View>
         <Header/>
       </View>
     );
