@@ -22,4 +22,7 @@ vai criar o app puro.
     Para chamar uma alteração vinda do GitHub usar os comandos:
 
         git pull
+- Para acessar de outro PC, baixar a biblioteca no Desktop, depois no terminal rodar os comandos:
+	npm install
+	npm install expo-cli --global // Vai atualizar todas as bibliotecas que possui no projeto.
         
