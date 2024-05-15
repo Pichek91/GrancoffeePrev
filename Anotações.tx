@@ -19,11 +19,17 @@ vai criar o app puro.
         git branch -M main
         git push -u origin main 
 
-- Para chamar uma alteração vinda do GitHub usar os comandos:
-        git pull
-
 - Para acessar de outro PC, clonar a biblioteca usando o comando:
         git clone e a URL do repositorio
+
+- Se ja tiver o repositorio salvo no PC, para dar continuidade, execute os seguintes comandos:
+	Abra o terminal, navegue ate a pasta aonde esta salvo o repositorio;
+	Com o comando code . abra o VS code
+	Execute git init
+	
+
+- Para chamar uma alteração vinda do GitHub usar os comandos:
+        git pull
 
 - Depois no terminal rodar os comandos:
 	npm install
