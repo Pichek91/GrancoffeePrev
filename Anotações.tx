@@ -16,7 +16,7 @@ vai criar o app puro.
     Abra um novo repositorio no GitHub
     No terminal execute os comandos a seguir:
         git remote add origin https://github.com/Pichek91/GrancoffeePrev.git
-        git branch -M main
+        git branch -m main
         git push -u origin main 
 
 - Para acessar de outro PC, clonar a biblioteca usando o comando:
@@ -26,6 +26,7 @@ vai criar o app puro.
 	Abra o terminal, navegue ate a pasta aonde esta salvo o repositorio;
 	Com o comando code . abra o VS code
 	Execute git init
+	Execute git pull
 	
 
 - Para chamar uma alteração vinda do GitHub usar os comandos:
