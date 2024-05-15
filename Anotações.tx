@@ -28,4 +28,6 @@ vai criar o app puro.
 - Depois no terminal rodar os comandos:
 	npm install
 	npm install expo-cli --global // Vai atualizar todas as bibliotecas que possui no projeto.
+
+Por fim, esta pronto para fazer novas alterações, não esqueça de sempre salvar os commits ;)
         
