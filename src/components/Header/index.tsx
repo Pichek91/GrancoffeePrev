@@ -10,12 +10,12 @@ export const Header = () => {
           justifyContent:'center',
           width: '100%',
           height: 50,
-          backgroundColor:'black',
+          backgroundColor:'#070707',
         }}
         >
           <Text style={{
-            color:'white',
-          }}>GRANCOFFEE Preventivas!</Text>
+            color:'#ffffff',
+          }}>GRANCOFFEE Preventivas Estou ficando bom!</Text>
           <StatusBar style="auto" />
         </View>
       );
