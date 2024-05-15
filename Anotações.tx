@@ -27,10 +27,6 @@ vai criar o app puro.
 	Com o comando code . abra o VS code
 	Execute git init
 	Execute git pull
-	
-
-- Para chamar uma alteração vinda do GitHub usar os comandos:
-        git pull
 
 - Depois no terminal rodar os comandos:
 	npm install
