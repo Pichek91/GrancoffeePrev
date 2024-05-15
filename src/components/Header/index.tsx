@@ -1,21 +1,15 @@
 import { StyleSheet, View, Text } from "react-native";
 import { StatusBar } from "react-native";
+import { styles } from "./style";
 
 
-export const Header = () => {
+export const Header = () => { 
 
     return (
-        <View style={{
-          alignItems:'center',
-          justifyContent:'center',
-          width: '100%',
-          height: 50,
-          backgroundColor:'#070707',
-        }}
-        >
-          <Text style={{
-            color:'#ffffff',
-          }}>GRANCOFFEE Preventivas!</Text>
+        <View style={styles.container}>
+          <Text style={styles.text}>
+            GRANCOFFEE Preventivas!
+          </Text>
           <StatusBar style="auto" />
         </View>
       );
