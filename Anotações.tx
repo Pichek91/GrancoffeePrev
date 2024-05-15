@@ -19,10 +19,13 @@ vai criar o app puro.
         git branch -M main
         git push -u origin main 
 
-    Para chamar uma alteração vinda do GitHub usar os comandos:
-
+- Para chamar uma alteração vinda do GitHub usar os comandos:
         git pull
-- Para acessar de outro PC, baixar a biblioteca no Desktop, depois no terminal rodar os comandos:
+
+- Para acessar de outro PC, clonar a biblioteca usando o comando:
+        git clone e a URL do repositorio
+
+- Depois no terminal rodar os comandos:
 	npm install
 	npm install expo-cli --global // Vai atualizar todas as bibliotecas que possui no projeto.
         
