@@ -15,7 +15,7 @@ export const Header = () => {
         >
           <Text style={{
             color:'#ffffff',
-          }}>GRANCOFFEE Preventivas, ta uma bosta isso!</Text>
+          }}>GRANCOFFEE Preventivas, Vacilo Meu!</Text>
           <StatusBar style="auto" />
         </View>
       );
