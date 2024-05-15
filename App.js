@@ -1,9 +1,8 @@
-import { Home } from "./src/screen/Home";
-import { List } from "./src/screen/Lists";
+import Home from "./src/screen/Home";
 
 
 export default function App() {
   return (
-    <List/>
+    <Home/>
   );
 }
